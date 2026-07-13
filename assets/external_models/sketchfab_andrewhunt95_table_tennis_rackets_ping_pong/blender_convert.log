@@ -1,0 +1,12 @@
+11:55:40 | INFO: Data are loaded, start creating Blender stuff
+11:55:40 | INFO: Blender create Mesh node SM_PingPongPaddle_Show_M_PingPongPaddle_0
+11:55:40 | INFO: Blender create Mesh node SM_PingPongPaddle_Show_M_PingPongBall_0
+11:55:40 | INFO: Blender create Mesh node SM_PingPongBall_M_PingPongBall_0
+11:55:40 | INFO: Blender create Mesh node SM_PingPongPaddle_M_PingPongPaddle_0
+11:55:40 | INFO: glTF import finished in 0.02s
+Writing to /autodl-fs/data/mingyu/Mujoco/projects/TableTennisTrack/assets/external_models/sketchfab_andrewhunt95_table_tennis_rackets_ping_pong/converted/table_tennis_rackets_ping_pong.obj
+EXPORTED_OBJ /autodl-fs/data/mingyu/Mujoco/projects/TableTennisTrack/assets/external_models/sketchfab_andrewhunt95_table_tennis_rackets_ping_pong/converted/table_tennis_rackets_ping_pong.obj meshes 4
+Blender 4.2.9 LTS (hash a10f621e649a built 2025-04-15 01:46:41)
+OBJ export of 'table_tennis_rackets_ping_pong.obj' took 48.19 ms
+
+Blender quit

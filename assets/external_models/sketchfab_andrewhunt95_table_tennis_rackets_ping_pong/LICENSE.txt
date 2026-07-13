@@ -1,0 +1,5 @@
+Model: Table Tennis Rackets (Ping Pong)
+Author: AndrewHunt95
+License: Creative Commons Attribution (CC BY)
+Source: https://sketchfab.com/3d-models/table-tennis-rackets-ping-pong-ad3b85ec56d042af88e4e57db648eacb
+Use: optional visual mesh only; simulator collision remains calibrated procedural MuJoCo geometry.

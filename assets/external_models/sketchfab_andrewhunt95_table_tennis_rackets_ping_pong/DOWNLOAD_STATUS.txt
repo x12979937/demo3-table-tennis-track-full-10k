@@ -1,0 +1,10 @@
+Downloaded successfully with Sketchfab API on 2026-07-08.
+
+Kept files:
+- model.glb: original Sketchfab GLB download.
+- converted/table_tennis_rackets_ping_pong.obj: Blender-converted OBJ for MuJoCo visual-use experiments.
+- converted/table_tennis_rackets_ping_pong.mtl: exported material file.
+- LICENSE.txt and SOURCE_URL.txt: attribution and source record.
+
+The model is used only as an optional visual asset. Collision/physics for large-scale data generation remains the calibrated MuJoCo procedural ball/paddle geometry.
+No Sketchfab API token is stored in this directory.
